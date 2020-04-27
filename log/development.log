@@ -222,3 +222,10 @@ Processing by PostsController#new as HTML
 Completed 200 OK in 34ms (Views: 32.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts/new" for 98.252.151.88 at 2020-04-27 19:34:38 +0000
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 26ms (Views: 19.9ms | ActiveRecord: 0.9ms)
+
+
